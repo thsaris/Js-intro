@@ -76,3 +76,42 @@ console.log('pazymiu suma', pazymiusuma);
 
 pazymiusuma = pazymiusuma + p4;
 console.log('pazymiu suma', pazymiusuma);
+
+console.log('---------------');
+
+const islaida1 = 10;
+const islaida2 = 20;
+const islaida3 = 25;
+const islaida4 = 35;
+
+let saskaita = 100;
+
+saskaita -= islaida1;
+console.log('isleidau:', islaida1, '; saskaitoje liko:', saskaita);
+
+saskaita -= islaida2;
+console.log('isleidau:', islaida2, '; saskaitoje liko:', saskaita);
+
+saskaita -= islaida3;
+console.log('isleidau:', islaida3, '; saskaitoje liko:', saskaita);
+
+saskaita -= islaida4;
+console.log('isleidau:', islaida4, '; saskaitoje liko:', saskaita);
+
+console.log('---------------');
+
+let index = 0;
+console.log('index:', index++);
+console.log('index:', index++);
+console.log('index:', index++);
+console.log('index:', index++);
+console.log('index:', index++);
+console.log('index:', index++);
+
+let index2 = 0;
+console.log('index2:', --index2);
+console.log('index2:', --index2);
+console.log('index2:', --index2);
+console.log('index2:', --index2);
+console.log('index2:', --index2);
+console.log('index2:', --index2);
