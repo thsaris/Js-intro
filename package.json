@@ -7,6 +7,10 @@
     "labas": "nodemon ./js/01-labas.js",
     "numbers": "nodemon ./js/02-numbers.js",
     "strings": "nodemon ./js/03-strings.js",
+    "boolean": "nodemon ./js/04-boolean.js",
+    "array": "nodemon ./js/05-array.js",
+    "typeof": "nodemon ./js/06-typeof.js",
+    "object": "nodemon ./js/07-object.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
