@@ -11,6 +11,7 @@
     "array": "nodemon ./js/05-array.js",
     "typeof": "nodemon ./js/06-typeof.js",
     "object": "nodemon ./js/07-object.js",
+    "function": "nodemon ./js/08-function.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
