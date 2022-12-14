@@ -12,6 +12,7 @@
     "typeof": "nodemon ./js/06-typeof.js",
     "object": "nodemon ./js/07-object.js",
     "function": "nodemon ./js/08-function.js",
+    "if": "nodemon ./js/09-if.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
