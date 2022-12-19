@@ -2,14 +2,6 @@ console.clear();
 
 /*
 Susumuoti (sveikuosius) skaicius intervale nuo-iki.
-if (from < to),{ 
-    ciklas from-to
-}
-if (from > to),{ 
-    ciklas to-from
-}
-if (from === to) {
-}
 */
 
 

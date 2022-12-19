@@ -16,6 +16,10 @@
     "for": "nodemon ./js/10-for.js",
     "shop": "nodemon ./tasks/shop.js",
     "rangeSum": "nodemon ./tasks/rangeSum.js",
+    "biggestNumber": "nodemon ./tasks/biggestNumber.js",
+    "digitCount": "nodemon ./tasks/digitCount.js",
+    "rangeDivide": "nodemon ./tasks/rangeDivide.js",
+    "reverseString": "nodemon ./tasks/reverseString.js",
     "zeroFuel": "nodemon ./codewars/zeroFuel,js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
