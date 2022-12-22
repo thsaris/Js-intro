@@ -21,6 +21,8 @@
     "rest": "nodemon ./js/15-rest.js",
     "loops": "nodemon ./js/16-loops.js",
     "map": "nodemon ./js/17-map.js",
+    "filter": "nodemon ./js/18-filter.js",
+    "sort": "nodemon ./js/19-sort.js",
     "shop": "nodemon ./tasks/shop.js",
     "rangeSum": "nodemon ./tasks/rangeSum.js",
     "biggestNumber": "nodemon ./tasks/biggestNumber.js",
