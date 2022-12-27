@@ -23,6 +23,8 @@
     "map": "nodemon ./js/17-map.js",
     "filter": "nodemon ./js/18-filter.js",
     "sort": "nodemon ./js/19-sort.js",
+    "reduce": "nodemon ./js/20-reduce.js",
+    "class": "nodemon ./class/index.js",
     "shop": "nodemon ./tasks/shop.js",
     "rangeSum": "nodemon ./tasks/rangeSum.js",
     "biggestNumber": "nodemon ./tasks/biggestNumber.js",
