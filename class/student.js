@@ -30,11 +30,11 @@ class Student {
 
     // Metodas, itraukiant nauja pazymi
     addMark(mark) {
-        if ( mark < 1 || mark > 10 || isNaN(mark || mark % 1 !==0)) {
+        if (!this.isValidMark(mark)) {
             return 'ERROR';
         }
 
-        this.marks.push(mark);
+        this.#marks.push(mark);
 
         return 'OK';
     }
